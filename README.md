@@ -6,7 +6,8 @@ Application web pour l'indexation des cvs développée avec Spring boot et Elast
 * Oumeyma Es-sraidi
 # Démo
 Une simulation de notre systéme de recherche sur une base de 20 documents :
-[https://user-images.githubusercontent.com/39196828/139540517-13cf6df1-dbda-45ee-b657-121e3d07fe32.mov](https://drive.google.com/file/d/1H3rTkRVPsb3gHNmFtcE-30gG4Ev6w3em/view)
+
+[Simulation](https://drive.google.com/file/d/1H3rTkRVPsb3gHNmFtcE-30gG4Ev6w3em/view)
  # Installation
 1. Cloner le projet
 2. [Installer ElasticSearch en local et démarrer le conteneur ](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html)
