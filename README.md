@@ -5,7 +5,6 @@ Application web pour l'indexation des cvs développée avec Spring boot et Elast
 * Ikram Jouichi
 * Kaouthar Kabiri
 * Oumaima Essraidi
-* 
 # Demo
 Une simulation de notre systéme de recherche sur une base de 20 documents :
 
