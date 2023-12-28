@@ -1,11 +1,10 @@
-# sri-indexationcv-backEnd
 # Description
 Application web pour l'indexation des cvs développée avec Spring boot et ElasticSearch, dans le cadre d'un projet académique à l'école nationale des sciences appliquées de Marrakech, du module : "SYSTEMES DE RECHERCHE D'INFORMATIONS ET BIG DATA"
 # Équipe
 * Ikram Jouichi
 * Kaouthar Kabiri
 * Oumeyma Es-sraidi
-# Demo
+# Démo
 Une simulation de notre systéme de recherche sur une base de 20 documents :
 
 [https://user-images.githubusercontent.com/39196828/139540517-13cf6df1-dbda-45ee-b657-121e3d07fe32.mov](https://drive.google.com/file/d/1H3rTkRVPsb3gHNmFtcE-30gG4Ev6w3em/view)https://drive.google.com/file/d/1H3rTkRVPsb3gHNmFtcE-30gG4Ev6w3em/view
